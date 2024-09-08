@@ -28,7 +28,7 @@
 [![IntelliJ](https://img.shields.io/badge/-IntelliJ-000000?logo=intellij-idea&logoColor=white)](https://en.wikipedia.org/wiki/IntelliJ_IDEA)
 [![NetBeans](https://img.shields.io/badge/-NetBeans-003C6C?logo=netbeans&logoColor=white)](https://en.wikipedia.org/wiki/NetBeans)
 [![PyCharm](https://img.shields.io/badge/-PyCharm-000000?logo=pycharm&logoColor=white)](https://en.wikipedia.org/wiki/PyCharm)
-[![Proteus](https://img.shields.io/badge/-Proteus-5E5B5F?logo=proteus&logoColor=white)](https://en.wikipedia.org/wiki/Proteus_(software))
+[![Proteus](https://img.shields.io/badge/-Proteus-5E5B5F?logo=proteus&logoColor=white)](https://www.labcenter.com/)
 [![Fritzing](https://img.shields.io/badge/-Fritzing-FFD700?logo=fritzing&logoColor=black)](https://en.wikipedia.org/wiki/Fritzing)
 
 ## Get In Touch
