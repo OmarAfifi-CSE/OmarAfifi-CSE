@@ -1,10 +1,8 @@
 # Welcome to Omar Afifi's Profile!
 
-🌟 **Ambitious and versatile Computer & Systems Engineering student** with expertise in web and mobile app development, IoT, and embedded systems. I am passionate about creating innovative and scalable solutions and excel in designing and building high-quality applications.
+**Ambitious and versatile Computer & Systems Engineering student** with expertise in web and mobile app development, IoT, and embedded systems. I am passionate about creating innovative and scalable solutions and excel in designing and building high-quality applications.
 
-## About Me
-
-👨‍💻 I am committed to developing cutting-edge web and mobile applications, from responsive websites to feature-rich mobile apps for Android and iOS. My experience spans across creating smart irrigation systems, user-friendly interfaces, and advanced technical solutions.
+[![Portfolio](https://img.shields.io/badge/-MyWebsite-black?logo=portfolio&logoColor=white)](https://omar-afifi.com/)
 
 ## 🛠️Tech Stack
 
@@ -35,13 +33,9 @@
 
 ## Get In Touch
 
-Feel free to reach out if you have any questions or just want to connect. I'm always excited to discuss new opportunities and collaborate on interesting projects!
-
-[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:omarafifi.cse@gmail.com)
+[![Email](https://img.shields.io/badge/-Email-1690DF?logo=gmail&logoColor=white)](mailto:omarafifi.cse@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?logo=whatsapp&logoColor=white)](https://wa.me/201154403740)
-[![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&logoColor=white)](https://github.com/omarafifi)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omarafifi)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-green?logo=portfolio&logoColor=white)](https://my-portfolio-khalid.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omarafifi)
 
 ---
 
