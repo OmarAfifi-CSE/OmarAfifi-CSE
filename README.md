@@ -2,7 +2,7 @@
 
 **Ambitious and versatile Computer & Systems Engineering student** with expertise in web and mobile app development, IoT, and embedded systems. I am passionate about creating innovative and scalable solutions and excel in designing and building high-quality applications.
 
-[![Portfolio](https://img.shields.io/badge/-MyWebsite-black?logo=portfolio&logoColor=white)](https://omar-afifi.com/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-053393?logo=portfolio&logoColor=white)](https://omar-afifi.com/)
 
 ## 🛠️Tech Stack
 
@@ -35,7 +35,7 @@
 
 [![Email](https://img.shields.io/badge/-Email-1690DF?logo=gmail&logoColor=white)](mailto:omarafifi.cse@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?logo=whatsapp&logoColor=white)](https://wa.me/201154403740)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omarafifi)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omarafifi-cse/)
 
 ---
 
