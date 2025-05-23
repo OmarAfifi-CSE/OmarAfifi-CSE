@@ -24,20 +24,21 @@
 [![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)](https://en.wikipedia.org/wiki/Git)
 
 [![Arduino](https://img.shields.io/badge/-Arduino-00979D?logo=arduino&logoColor=white)](https://en.wikipedia.org/wiki/Arduino)
-[![ESP32](https://img.shields.io/badge/-ESP32-000000?logo=espressif&logoColor=white)](https://en.wikipedia.org/wiki/ESP32)
-[![PCB Design](https://img.shields.io/badge/-PCB%20Design-00B2A9?logo=kicad&logoColor=white)](https://en.wikipedia.org/wiki/Printed_circuit_board)
-[![Proteus](https://img.shields.io/badge/-Proteus-5E5B5F)](https://www.labcenter.com/)
+[![ESP32](https://img.shields.io/badge/-ESP32-E0332B?logo=espressif&logoColor=white)](https://en.wikipedia.org/wiki/ESP32)
+[![PCB Design](https://img.shields.io/badge/-PCB%20Design-00B2A9?logo=Probot&logoColor=white)](https://en.wikipedia.org/wiki/Printed_circuit_board)
+[![Proteus](https://img.shields.io/badge/-Proteus-1659cc?logo=proteus&logoColor=white)](https://www.labcenter.com/)
 [![Fritzing](https://img.shields.io/badge/-Fritzing-FFD700?logo=fritzing&logoColor=black)](https://en.wikipedia.org/wiki/Fritzing)
-[![Microsoft Office](https://img.shields.io/badge/-Microsoft%20Office-D83B01?logo=microsoftoffice&logoColor=white)](https://en.wikipedia.org/wiki/Microsoft_Office)
+[![Microsoft Office](https://img.shields.io/badge/-Microsoft%20Office-D83B01?logo=microsoft&logoColor=white)](https://en.wikipedia.org/wiki/Microsoft_Office)
 
-[![Web Development](https://img.shields.io/badge/-Web%20Development-2F72BC?logo=web&logoColor=white)](https://en.wikipedia.org/wiki/Web_development)
+[![Web Development](https://img.shields.io/badge/-Web%20Development-2F72BC?logo=html5&logoColor=white)](https://en.wikipedia.org/wiki/Web_development)
 [![Mobile Development](https://img.shields.io/badge/-Mobile%20Development-4285F4?logo=android&logoColor=white)](https://en.wikipedia.org/wiki/Mobile_application_development)
-[![Embedded Systems & IoT](https://img.shields.io/badge/-Embedded%20Systems%20%26%20IoT-00B2A9?logo=internet-of-things&logoColor=white)](https://en.wikipedia.org/wiki/Embedded_system)
+[![Embedded Systems & IoT](https://img.shields.io/badge/-Embedded%20Systems%20%26%20IoT-00B2A9?logo=raspberry-pi&logoColor=white)](https://en.wikipedia.org/wiki/Embedded_system)
 
-[![Problem Solving](https://img.shields.io/badge/-Problem%20Solving-0078D4)](https://en.wikipedia.org/wiki/Problem_solving)
-[![Project Management & Organization](https://img.shields.io/badge/-Project%20Management%20%26%20Organization-7A7574)](https://en.wikipedia.org/wiki/Project_management)
-[![Effective Communication & Teamwork](https://img.shields.io/badge/-Effective%20Communication%20%26%20Teamwork-6BA539)](https://en.wikipedia.org/wiki/Communication)
-[![Adaptability](https://img.shields.io/badge/-Adaptability-F39C12)](https://en.wikipedia.org/wiki/Adaptability_(psychology))
+[![Problem Solving](https://img.shields.io/badge/🧩-Problem%20Solving-1b2fe0?logo=brain&logoColor=white&labelColor=1b2fe0)](https://en.wikipedia.org/wiki/Problem_solving)
+[![Project Management & Organization](https://img.shields.io/badge/📋-Project%20Management%20%26%20Organization-0078D4?logo=microsoft-project&logoColor=white&labelColor=0078D4)](https://en.wikipedia.org/wiki/Project_management)
+[![Effective Communication & Teamwork](https://img.shields.io/badge/🗫-Effective%20Communication%20%26%20Teamwork-16cc3e?logo=teams&logoColor=white&labelColor=16cc3e)](https://en.wikipedia.org/wiki/Communication)
+[![Adaptability](https://img.shields.io/badge/🧠-Adaptability-F39C12?logo=shuffle&logoColor=white&labelColor=F39C12)](https://en.wikipedia.org/wiki/Adaptability_(psychology))
+
 
 
 
