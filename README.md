@@ -1,35 +1,45 @@
 # Welcome to Omar Afifi's Profile!
 
-**Ambitious and versatile Computer & Systems Engineering student** with expertise in web and mobile app development, IoT, and embedded systems. I am passionate about creating innovative and scalable solutions and excel in designing and building high-quality applications.
+**Computer & Systems Engineering student** passionate about developing innovative real-world solutions, including smart systems with Arduino, Java-based desktop tools, and full-stack web and mobile applications. Quick to learn new technologies, collaborative in team environments, and dedicated to delivering reliable and scalable results. 
 
 [![Portfolio](https://img.shields.io/badge/-🚀Portfolio-053393?logo=portfolio&logoColor=white)](https://omar-afifi.com/)
 
-## 🛠️Tech Stack
+## 🛠️ Skills
 
-[![C](https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
-[![C++](https://img.shields.io/badge/-C%2B%2B-00599C?logo=cplusplus&logoColor=white)](https://en.wikipedia.org/wiki/C%2B%2B)
 [![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)](https://en.wikipedia.org/wiki/Java_(programming_language))
 [![JavaFX](https://img.shields.io/badge/-JavaFX-007396?logo=java&logoColor=white)](https://en.wikipedia.org/wiki/JavaFX)
+[![C](https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
+[![C++](https://img.shields.io/badge/-C%2B%2B-00599C?logo=cplusplus&logoColor=white)](https://en.wikipedia.org/wiki/C%2B%2B)
+[![Dart](https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white)](https://en.wikipedia.org/wiki/Dart_(programming_language))
+[![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white)](https://en.wikipedia.org/wiki/Flutter_(software))
 [![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)](https://en.wikipedia.org/wiki/Python_(programming_language))
-[![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white)](https://en.wikipedia.org/wiki/HTML)
+[![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white)](https://en.wikipedia.org/wiki/HTML5)
 [![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white)](https://en.wikipedia.org/wiki/CSS)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1C?logo=javascript&logoColor=black)](https://en.wikipedia.org/wiki/JavaScript)
 [![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)](https://en.wikipedia.org/wiki/Node.js)
-[![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white)](https://en.wikipedia.org/wiki/Flutter_(software))
-[![Arduino](https://img.shields.io/badge/-Arduino-00979D?logo=arduino&logoColor=white)](https://en.wikipedia.org/wiki/Arduino)
-[![ESP32](https://img.shields.io/badge/-ESP32-000000?logo=esp32&logoColor=white)](https://en.wikipedia.org/wiki/ESP32)
-[![IoT](https://img.shields.io/badge/-IoT-00B2A9?logo=internet-of-things&logoColor=white)](https://en.wikipedia.org/wiki/Internet_of_things)
-[![PCB](https://img.shields.io/badge/-PCB-00B2A9?logo=pcb&logoColor=white)](https://en.wikipedia.org/wiki/PCB)
+[![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=mysql&logoColor=white)](https://en.wikipedia.org/wiki/SQL)
+[![NoSQL](https://img.shields.io/badge/-NoSQL-003B57?logo=mongodb&logoColor=white)](https://en.wikipedia.org/wiki/NoSQL)
+[![OOP](https://img.shields.io/badge/-OOP-555555)](https://en.wikipedia.org/wiki/Object-oriented_programming)
+[![DSA](https://img.shields.io/badge/-DSA-555555)](https://en.wikipedia.org/wiki/Data_structures_and_algorithms)
 [![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)](https://en.wikipedia.org/wiki/Git)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)](https://en.wikipedia.org/wiki/GitHub)
-[![PuTTY](https://img.shields.io/badge/-PuTTY-000000?logo=putty&logoColor=white)](https://en.wikipedia.org/wiki/PuTTY)
-[![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?logo=visual-studio-code&logoColor=white)](https://en.wikipedia.org/wiki/Visual_Studio_Code)
-[![Android Studio](https://img.shields.io/badge/-Android_Studio-3DDC84?logo=android-studio&logoColor=white)](https://en.wikipedia.org/wiki/Android_Studio)
-[![IntelliJ](https://img.shields.io/badge/-IntelliJ-000000?logo=intellij-idea&logoColor=white)](https://en.wikipedia.org/wiki/IntelliJ_IDEA)
-[![NetBeans](https://img.shields.io/badge/-NetBeans-003C6C?logo=netbeans&logoColor=white)](https://en.wikipedia.org/wiki/NetBeans)
-[![PyCharm](https://img.shields.io/badge/-PyCharm-000000?logo=pycharm&logoColor=white)](https://en.wikipedia.org/wiki/PyCharm)
-[![Proteus](https://img.shields.io/badge/-Proteus-5E5B5F?logo=proteus&logoColor=white)](https://www.labcenter.com/)
+
+[![Arduino](https://img.shields.io/badge/-Arduino-00979D?logo=arduino&logoColor=white)](https://en.wikipedia.org/wiki/Arduino)
+[![ESP32](https://img.shields.io/badge/-ESP32-000000?logo=espressif&logoColor=white)](https://en.wikipedia.org/wiki/ESP32)
+[![PCB Design](https://img.shields.io/badge/-PCB%20Design-00B2A9?logo=kicad&logoColor=white)](https://en.wikipedia.org/wiki/Printed_circuit_board)
+[![Proteus](https://img.shields.io/badge/-Proteus-5E5B5F)](https://www.labcenter.com/)
 [![Fritzing](https://img.shields.io/badge/-Fritzing-FFD700?logo=fritzing&logoColor=black)](https://en.wikipedia.org/wiki/Fritzing)
+[![Microsoft Office](https://img.shields.io/badge/-Microsoft%20Office-D83B01?logo=microsoftoffice&logoColor=white)](https://en.wikipedia.org/wiki/Microsoft_Office)
+
+[![Web Development](https://img.shields.io/badge/-Web%20Development-2F72BC?logo=web&logoColor=white)](https://en.wikipedia.org/wiki/Web_development)
+[![Mobile Development](https://img.shields.io/badge/-Mobile%20Development-4285F4?logo=android&logoColor=white)](https://en.wikipedia.org/wiki/Mobile_application_development)
+[![Embedded Systems & IoT](https://img.shields.io/badge/-Embedded%20Systems%20%26%20IoT-00B2A9?logo=internet-of-things&logoColor=white)](https://en.wikipedia.org/wiki/Embedded_system)
+
+[![Problem Solving](https://img.shields.io/badge/-Problem%20Solving-0078D4)](https://en.wikipedia.org/wiki/Problem_solving)
+[![Project Management & Organization](https://img.shields.io/badge/-Project%20Management%20%26%20Organization-7A7574)](https://en.wikipedia.org/wiki/Project_management)
+[![Effective Communication & Teamwork](https://img.shields.io/badge/-Effective%20Communication%20%26%20Teamwork-6BA539)](https://en.wikipedia.org/wiki/Communication)
+[![Adaptability](https://img.shields.io/badge/-Adaptability-F39C12)](https://en.wikipedia.org/wiki/Adaptability_(psychology))
+
+
 
 ## Get In Touch
 
