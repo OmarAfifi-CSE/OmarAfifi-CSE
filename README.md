@@ -19,8 +19,6 @@
 [![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)](https://en.wikipedia.org/wiki/Node.js)
 [![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=mysql&logoColor=white)](https://en.wikipedia.org/wiki/SQL)
 [![NoSQL](https://img.shields.io/badge/-NoSQL-003B57?logo=mongodb&logoColor=white)](https://en.wikipedia.org/wiki/NoSQL)
-[![OOP](https://img.shields.io/badge/-OOP-555555)](https://en.wikipedia.org/wiki/Object-oriented_programming)
-[![DSA](https://img.shields.io/badge/-DSA-555555)](https://en.wikipedia.org/wiki/Data_structures_and_algorithms)
 [![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)](https://en.wikipedia.org/wiki/Git)
 
 [![Arduino](https://img.shields.io/badge/-Arduino-00979D?logo=arduino&logoColor=white)](https://en.wikipedia.org/wiki/Arduino)
