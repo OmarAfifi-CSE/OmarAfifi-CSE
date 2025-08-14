@@ -22,7 +22,7 @@
 [![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)](https://en.wikipedia.org/wiki/Git)
 
 [![Arduino](https://img.shields.io/badge/-Arduino-00979D?logo=arduino&logoColor=white)](https://en.wikipedia.org/wiki/Arduino)
-[![ESP32](https://img.shields.io/badge/-ESP32-E0332B?logo=espressif&logoColor=white)](https://en.wikipedia.org/wiki/ESP32)
+[![ESP32](https://img.shields.io/badge/-ESP32-E0332B?)](https://en.wikipedia.org/wiki/ESP32)
 [![PCB Design](https://img.shields.io/badge/-PCB%20Design-00B2A9?logo=Probot&logoColor=white)](https://en.wikipedia.org/wiki/Printed_circuit_board)
 [![Proteus](https://img.shields.io/badge/-Proteus-1659cc?logo=proteus&logoColor=white)](https://www.labcenter.com/)
 [![Fritzing](https://img.shields.io/badge/-Fritzing-FFD700?logo=fritzing&logoColor=black)](https://en.wikipedia.org/wiki/Fritzing)
