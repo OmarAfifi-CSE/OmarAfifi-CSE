@@ -1,24 +1,28 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=OMAR%20AFIFI&fontSize=90&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Flutter%20Developer%20%7C%20Mobile%20Engineer%20%7C%20Full-Stack%20Creator%20%F0%9F%9A%80&descAlignY=55&descAlign=50"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1F35FF,100:1F35FF&height=300&section=header&text=OMAR%20AFIFI&fontSize=90&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Flutter%20Developer%20%7C%20Mobile%20Engineer%20%7C%20Full-Stack%20Creator%20%F0%9F%9A%80&descAlignY=55&descAlign=50"/>
 
 # <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35"> Welcome to My Digital Universe! 
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=100&lines=%F0%9F%93%B1+Flutter+Developer+%7C+Building+Cross-Platform+Magic;%F0%9F%92%BB+Computer+%26+Systems+Engineering+Student;%E2%9A%A1+IoT+Specialist+%7C+Full-Stack+Developer;%F0%9F%8E%AF+200%2B+Hours+of+Intensive+Flutter+Training;%F0%9F%8C%9F+One+Codebase%2C+Infinite+Possibilities!" alt="Typing SVG" />
+<div align="center">
 
-<br>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=1F35FF&center=true&vCenter=true&width=1000&lines=Flutter+Developer+Building+Cross+Platform+Magic;Computer+and+Systems+Engineering+Student;IoT+Specialist+and+Full+Stack+Developer;200%2B+Hours+of+Intensive+Flutter+Training;One+Codebase+Infinite+Possibilities)](https://git.io/typing-svg)
+
+</div>
+
 
 <a href="https://omar-afifi.com/">
-  <img src="https://img.shields.io/badge/🌐_PORTFOLIO-EXPLORE_MY_WORK-FF6B6B?style=for-the-badge&logoColor=white&labelColor=1a1a2e&borderRadius=10" height="40"/>
+  <img src="https://img.shields.io/badge/PORTFOLIO-EXPLORE_MY_WORK-FF6B6B?style=for-the-badge&logoColor=white&labelColor=1a1a2e" height="35"/>
 </a>
+&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/omarafifi-cse/">
-  <img src="https://img.shields.io/badge/💼_LINKEDIN-LET'S_CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a2e" height="40"/>
+  <img src="https://img.shields.io/badge/LINKEDIN-LET'S_CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a2e" height="35"/>
 </a>
+&nbsp;&nbsp;
 <a href="mailto:omarafifi.cse@gmail.com">
-  <img src="https://img.shields.io/badge/📧_EMAIL-GET_IN_TOUCH-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a2e" height="40"/>
+  <img src="https://img.shields.io/badge/EMAIL-GET_IN_TOUCH-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a2e" height="35"/>
 </a>
 
-<br><br>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
@@ -138,9 +142,10 @@ print(me.getMotivation());
 
 ### 🏆 Mobile Development Projects
 
+<div align="center">
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 #### 💰 [FinFlow - Finance Tracker](https://github.com/omarafifi-cse/finflow)
 **Cross-Platform Finance Management**
@@ -154,7 +159,7 @@ print(me.getMotivation());
 `Flutter` `Dart` `Supabase` `Provider` `Multi-platform`
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 #### 🌤️ [Wizardly - Weather App](https://github.com/omarafifi-cse/wizardly)
 **Real-Time Atmospheric Intelligence**
@@ -170,12 +175,14 @@ print(me.getMotivation());
 </td>
 </tr>
 </table>
+</div>
 
 ### 🌐 Full-Stack & IoT Projects
 
+<div align="center">
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 #### 🌿 [Z-Garden - Smart Irrigation](https://github.com/omarafifi-cse/zgarden)
 **Solar-Powered IoT System**
@@ -189,7 +196,7 @@ print(me.getMotivation());
 `Arduino` `ESP32` `Flutter` `IoT` `PCB Design`
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 #### 🌐 [Omar-Afifi Portfolio](https://omar-afifi.com)
 **Personal Brand Showcase**
@@ -205,12 +212,14 @@ print(me.getMotivation());
 </td>
 </tr>
 </table>
+</div>
 
 ### 🖥️ Desktop & Game Development
 
+<div align="center">
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 #### 📊 [Student Grade Analyzer](https://github.com/omarafifi-cse/grade-analyzer)
 **Academic Management System**
@@ -224,7 +233,7 @@ print(me.getMotivation());
 `Java` `JavaFX` `Algorithms` `Data Structures`
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 #### 🎮 [Digging Jim - 2D Game](https://github.com/omarafifi-cse/digging-jim)
 **Interactive Gaming Experience**
@@ -240,6 +249,7 @@ print(me.getMotivation());
 </td>
 </tr>
 </table>
+</div>
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
@@ -249,13 +259,11 @@ print(me.getMotivation());
 
 <div align="center">
   
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=omarafifi-cse&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&ring_color=00D9FF&fire_color=FF6B6B" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=omarafifi-cse&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF" />
+<img width="49%" height="190px" src="https://github-readme-streak-stats.herokuapp.com/?user=omarafifi-cse&theme=tokyonight&hide_border=true&background=0D1117&stroke=1F35FF&ring=1F35FF&fire=FF6B6B&currStreakLabel=1F35FF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF" />
+<img width="49%" height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omarafifi-cse&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=1F35FF&text_color=FFFFFF&langs_count=8" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omarafifi-cse&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=8" />
-<img width="49%" src="https://github-contributor-stats.vercel.app/api?username=omarafifi-cse&limit=5&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&icon_color=00D9FF" />
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=omarafifi-cse&custom_title=🚀%20Omar's%20Contribution%20Graph%20-%20Building%20the%20Future&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area_color=00D9FF&area=true&hide_border=true&font_color=FFFFFF&title_color=FFFFFF"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=omarafifi-cse&custom_title=🚀%20Omar's%20Contribution%20Graph%20-%20Building%20the%20Future&bg_color=0D1117&color=1F35FF&line=1F35FF&point=FFFFFF&area_color=1F35FF&area=true&hide_border=true&font_color=FFFFFF&title_color=FFFFFF"/>
 
 <img width="80%" src="https://github-profile-trophy.vercel.app/?username=omarafifi-cse&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" />
 
@@ -349,31 +357,12 @@ Mastering new technologies rapidly
   <img src="https://img.shields.io/badge/WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=1a1a2e" height="45"/>
 </a>
 
-<br><br>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
-
-### <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="25" /> *"Code is like humor. When you have to explain it, it's bad."* — Cory House
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=omarafifi-cse&label=Profile%20Views&color=00D9FF&style=for-the-badge" alt="Profile Views" />
-
-<br><br>
-
-### ⭐ If my work resonates with you, star the repos! Every ⭐ motivates me! ⭐
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1F35FF,100:1F35FF&height=150&section=footer&animation=twinkling"/>
 
 <br>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
-
-<br>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=150&section=footer&animation=twinkling"/>
-
-<br>
-
-**Crafted with 💙 Flutter, ☕ Coffee, and 🔥 Passion**
 
 **© 2025 Omar Afifi - Building Tomorrow's Mobile Experiences Today**
 
