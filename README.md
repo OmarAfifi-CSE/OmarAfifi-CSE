@@ -78,7 +78,7 @@ print(me.getMotivation());
 
 <br>
 
-**Flutter & Dart** • **Cross-Platform Development** • **State Management (Provider)** • **Firebase Integration** • **Supabase**  
+**Flutter & Dart** • **Cross-Platform Development** • **State Management** • **Firebase Integration** • **Supabase**  
 **UI/UX Design** • **RESTful APIs** • **Git/GitHub** • **Responsive Design** • **60 FPS Performance**
 
 ### 💻 Full-Stack & Programming
