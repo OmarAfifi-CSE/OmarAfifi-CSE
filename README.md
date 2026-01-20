@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1F35FF,100:1F35FF&height=200&section=header&text=OMAR%20AFIFI&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=30&desc=Flutter%20Developer%20%7C%20Mobile%20Engineer%20%7C%20Full-Stack%20Creator%20%F0%9F%9A%80&descAlignY=50&descAlign=50"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:032863,100:032863&height=200&section=header&text=OMAR%20AFIFI&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=30&desc=Flutter%20Developer%20%7C%20Mobile%20Engineer%20%7C%20Full-Stack%20Creator%20%F0%9F%9A%80&descAlignY=50&descAlign=50"/>
 
 # <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35"> Welcome to My Digital Universe! 
 
