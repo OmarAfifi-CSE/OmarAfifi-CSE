@@ -23,7 +23,7 @@
   <img src="https://img.shields.io/badge/EMAIL-GET_IN_TOUCH-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a2e" height="35"/>
 </a>
 &nbsp;&nbsp;
-<a href="https://ko-fi.com/omar-afifi" target="_blank">
+<a href="https://ko-fi.com/omarafifi" target="_blank">
   <img src="https://img.shields.io/badge/SUPPORT-BUY_ME_A_COFFEE-FF5E5B?style=for-the-badge&logo=kofi&logoColor=white&labelColor=1a1a2e" height="35"/>
 </a>
 
