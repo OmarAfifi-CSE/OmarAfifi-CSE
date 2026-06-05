@@ -13,7 +13,6 @@
 <p align="center">
   <a href="https://omar-afifi.com/"><img src="https://img.shields.io/badge/PORTFOLIO-EXPLORE_MY_WORK-0A66C2?style=for-the-badge&logoColor=white&labelColor=1a1a2e" height="35"/></a>&nbsp;&nbsp;<a href="https://www.linkedin.com/in/omar-a-afifi/"><img src="https://img.shields.io/badge/LINKEDIN-LET'S_CONNECT-0076b5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a2e" height="35"/></a>&nbsp;&nbsp;<a href="mailto:contact@omar-afifi.com"><img src="https://img.shields.io/badge/EMAIL-GET_IN_TOUCH-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a2e" height="35"/></a>
   <br><br>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://ko-fi.com/omarafifi" target="_blank"><img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" alt="Buy Me a Coffee at ko-fi.com" /></a>
 </p>
 
