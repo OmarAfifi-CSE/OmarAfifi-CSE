@@ -15,6 +15,16 @@
   <br><br>
   <a href="https://ko-fi.com/omarafifi" target="_blank"><img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" alt="Buy Me a Coffee at ko-fi.com" /></a>
 </p>
+<!-- 🏆 GLOBAL ACHIEVEMENT BADGE -->
+<p align="center">
+  <a href="https://media2.dev.to/dynamic/image/width=192,height=,fit=scale-down,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Fbadge%2Fbadge_image%2F469%2FGHco-26-03.png" target="_blank">
+    <img src="https://media2.dev.to/dynamic/image/width=192,height=,fit=scale-down,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Fbadge%2Fbadge_image%2F469%2FGHco-26-03.png" width="130" alt="GitHub Copilot Challenge Winner Badge"/>
+  </a>
+  <br>
+  <b>🏆 Official GitHub Copilot "Finish-Up-A-Thon" Global Challenge Winner 🏆</b>
+  <br>
+  <i>Recognized as one of the top 10 winners worldwide by GitHub & DEV Community for engineering <b>Daphq</b></i>
+</p>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
@@ -41,6 +51,7 @@ class OmarAfifi extends FlutterDeveloper {
   };
   
   List<String> highlights = [
+    "🏆 GitHub Copilot Global Challenge Winner (Top 10 Worldwide)"
     "✅ Apps deployed on iOS, Android, Web & Windows",
     "✅ 60 FPS performance across all applications",
     "✅ 95+ Google Lighthouse score on portfolio",
