@@ -21,7 +21,7 @@
 [![GitHub Copilot Challenge Winner Badge](https://media2.dev.to/dynamic/image/width=192,height=,fit=scale-down,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Fbadge%2Fbadge_image%2F469%2FGHco-26-03.png)](https://dev.to/devteam/congrats-to-the-github-finish-up-a-thon-challenge-winners-1k0h)
 
 <br>
-<b>🏆 Official GitHub Copilot "Finish-Up-A-Thon" Global Challenge Winner 🏆</b>
+<b>🏆 Official GitHub "Finish-Up-A-Thon" Global Challenge Winner 🏆</b>
 <br>
 <i>Recognized as one of the top 10 winners worldwide by GitHub & DEV Community for engineering <b>Daphq</b></i>
 </div>
