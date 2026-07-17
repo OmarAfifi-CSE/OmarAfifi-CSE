@@ -51,7 +51,7 @@ class OmarAfifi extends FlutterDeveloper {
   };
   
   List<String> highlights = [
-    "🏆 GitHub Copilot Global Challenge Winner (Top 10 Worldwide)"
+    "🏆 GitHub Global Challenge Winner (Top 10 Worldwide)"
     "🏅 Google Flutter Development Badge certified"
     "🌐 Apps deployed on Android, Web & Windows",
     "⚡ 60 FPS performance across all applications",
